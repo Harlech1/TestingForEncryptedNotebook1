@@ -14,6 +14,7 @@
 		D13C1DFE2A89651500396538 /* Test1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D13C1DFC2A89651500396538 /* Test1.xcdatamodeld */; };
 		D13C1E002A89651700396538 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D13C1DFF2A89651700396538 /* Assets.xcassets */; };
 		D13C1E032A89651700396538 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D13C1E012A89651700396538 /* LaunchScreen.storyboard */; };
+		D13C1E0D2A899AF800396538 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D13C1E0C2A899AF800396538 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D13C1DFF2A89651700396538 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D13C1E022A89651700396538 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D13C1E042A89651700396538 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D13C1E0C2A899AF800396538 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				D13C1DF32A89651500396538 /* AppDelegate.swift */,
 				D13C1DF52A89651500396538 /* SceneDelegate.swift */,
 				D13C1DF72A89651500396538 /* ViewController.swift */,
+				D13C1E0C2A899AF800396538 /* TableViewController.swift */,
 				D13C1DF92A89651500396538 /* Main.storyboard */,
 				D13C1DFF2A89651700396538 /* Assets.xcassets */,
 				D13C1E012A89651700396538 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				D13C1DF82A89651500396538 /* ViewController.swift in Sources */,
 				D13C1DF42A89651500396538 /* AppDelegate.swift in Sources */,
 				D13C1DF62A89651500396538 /* SceneDelegate.swift in Sources */,
+				D13C1E0D2A899AF800396538 /* TableViewController.swift in Sources */,
 				D13C1DFE2A89651500396538 /* Test1.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
